@@ -1,4 +1,4 @@
-This script works - one at a time 
+// This script works - one at a time 
 
 // Define the area of interest with the provided polygon coordinates.
 var aoi = ee.Geometry.Polygon([
