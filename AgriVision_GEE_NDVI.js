@@ -1,4 +1,4 @@
-NDVI - AgriVision 
+// NDVI - AgriVision 
 
 // Define the area of interest with the provided polygon coordinates.
 var aoi = ee.Geometry.Polygon([
