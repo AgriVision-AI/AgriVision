@@ -30,6 +30,8 @@ We utilized Azure Machine Learning Studio provided by Microsoft for building thi
 - **Speed & Efficiency**: Saves cost to build from scratch and speeds up the process.
 - **Customization**: Feature to customize/fine-tune the model using scripts, and more.
 
+### Azure ML Python Notebook
+You can run the notebook to see out analysis and make your own edits if you desire. Access the notebook through this link. You'll want to download it and upload it to your Azure ML Studio: https://drive.google.com/file/d/1wVRXX2x9PBD1KzhaBceRgO55wQC_B2MB/view?usp=sharing
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
